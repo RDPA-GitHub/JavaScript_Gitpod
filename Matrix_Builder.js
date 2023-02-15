@@ -25,15 +25,16 @@
 let array = [];
 
 const matrixBuilder = (value) => {
-  for (let i = 0; i < value; i++) {
-    array[i] = []; // Genera 
+  const array = Array.from({ length: value }, () => []);
 
+  for (let i = 0; i < value; i++) {
     for (let j = 0; j < value; j++) {
       array[i][j] = Math.floor(Math.random()*2);
     }
     
   }
+  
   return array;
 }
 
-console.log(matrixBuilder(6));
+console.log(matrixBuilder(3));
