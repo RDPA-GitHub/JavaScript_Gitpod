@@ -13,6 +13,7 @@
     6. Ejercicio addProperty.
     7. Ejercicio removeProperty.
     8. Ejercicio checkAge.
+    9. Ejercicio getFullName.
 
 
 
