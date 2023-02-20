@@ -1,8 +1,23 @@
 # EJERCICIOS JAVASCRIPT DE 4GEEKS ACADEMY
 
 
-1. Practice Javascript Functional Tutorial.
-2. Learn Javascript Arrays and Loops.
 
-### NOTA:
+1. Practice Javascript Functional Tutorial. 
+    1. Ejercicio matrixBuilder.
+    2. Ejercicio parkingLot.
+   
+2. Learn Javascript Arrays and Loops. (160 Ejercicios)
+    1. Ejercicio isOldEnoughToDrink.
+    2. Ejercicio isOldEnoughToDrive.
+    3. Ejercicio isOldEnoughToVote.
+    4. Ejercicio isOldEnoughToDrinkAndDrive.
+
+
+
+### <span style="font-weight:bold;">NOTA:</span>
 Estos Ejercicios los realice uno a uno de manera local y los estoy subiendo al mi GitHub
+<hr />
+
+#### <span style="font-weight:bold;"> Desarrollador Ronald Peña </span>
+
+  <img src = "./img/Logo.png" width = "250px" />
