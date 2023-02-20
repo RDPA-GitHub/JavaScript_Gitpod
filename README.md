@@ -1,7 +1,5 @@
 # EJERCICIOS JAVASCRIPT DE 4GEEKS ACADEMY
 
-
-
 1. Practice Javascript Functional Tutorial. 
     1. Ejercicio matrixBuilder.
     2. Ejercicio parkingLot.
@@ -11,6 +9,9 @@
     2. Ejercicio isOldEnoughToDrive.
     3. Ejercicio isOldEnoughToVote.
     4. Ejercicio isOldEnoughToDrinkAndDrive.
+    5. Ejercicio getProperty.
+    6. Ejercicio addProperty.
+    7. Ejercicio removeProperty.
 
 
 
