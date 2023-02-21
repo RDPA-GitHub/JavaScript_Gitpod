@@ -23,6 +23,7 @@
     16. Ejercicio isGreaterThan.
     17. Ejercicio isEqualTo.
     18. Ejercicio isEven.
+    19. Ejerccio isOdd.
 
 
 
