@@ -6,7 +6,7 @@
 
   EJEMPLO:
     let output = getLengthOfTwoWords('some', 'words');
-    console.log(output);
+    console.log(output); --> 9
 */
 // Code:
 

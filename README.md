@@ -16,6 +16,7 @@
     9. Ejercicio getFullName.
     10. Ejercicio getLengthOfWord.
     11. Ejercicio getLengthOfTwoWords.
+    12. Ejercicio isGreaterThanTen.
 
 
 
