@@ -1,6 +1,6 @@
 # EJERCICIOS JAVASCRIPT DE 4GEEKS ACADEMY
 
-1. Practice Javascript Functional Tutorial. 
+1. Practice Javascript Functional Tutorial. (87 Ejercicios)
     1. Ejercicio matrixBuilder.
     2. Ejercicio parkingLot.
    
@@ -19,6 +19,7 @@
     12. Ejercicio isGreaterThanTen.
     13. Ejercicio isLessThan30.
     14. Ejercicio equalsTen.
+    15. Ejercicio isLessThan.
 
 
 
