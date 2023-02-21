@@ -14,6 +14,7 @@
     7. Ejercicio removeProperty.
     8. Ejercicio checkAge.
     9. Ejercicio getFullName.
+    10. Ejercicio getLengthOfWord.
 
 
 
