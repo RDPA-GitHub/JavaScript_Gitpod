@@ -15,6 +15,7 @@
     8. Ejercicio checkAge.
     9. Ejercicio getFullName.
     10. Ejercicio getLengthOfWord.
+    11. Ejercicio getLengthOfTwoWords.
 
 
 
