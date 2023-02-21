@@ -20,6 +20,7 @@
     13. Ejercicio isLessThan30.
     14. Ejercicio equalsTen.
     15. Ejercicio isLessThan.
+    16. Ejercicio isGreaterThan.
 
 
 
