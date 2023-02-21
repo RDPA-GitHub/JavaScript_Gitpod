@@ -27,6 +27,7 @@
     20. Ejercicio isSameLength.
     21. Ejercicio areBothOdd.
     22. Ejercicio isEitherEven.
+    23. Ejercicio isOddLength.
 
 
 
