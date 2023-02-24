@@ -35,11 +35,12 @@
     28. Ejercicio Cube.
     29. Ejercicio Square.
     30. Ejercicio computeAverageLengthOfWords.
+    31. Ejercicio addFullNameProperty.
 
 
 
 ### <span style="font-weight:bold;">NOTA:</span>
-Estos Ejercicios los realice uno a uno de manera local y los estoy subiendo al mi GitHub
+Estos Ejercicios los realice uno a uno de manera local y los estoy subiendo a mi GitHub
 <hr />
 
 #### <span style="font-weight:bold;"> Desarrollador Ronald Peña </span>
