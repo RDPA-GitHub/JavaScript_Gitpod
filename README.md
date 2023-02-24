@@ -32,6 +32,7 @@
     25. Ejercicio isEvenAndGreaterThanTen.
     26. Ejercicio Average.
     27. Ejercicio computeAreaOfATriangle.
+    28. Ejercicio Cube.
 
 
 
