@@ -33,6 +33,7 @@
     26. Ejercicio Average.
     27. Ejercicio computeAreaOfATriangle.
     28. Ejercicio Cube.
+    29. Ejercicio Square.
 
 
 
