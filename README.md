@@ -29,6 +29,7 @@
     22. Ejercicio isEitherEven.
     23. Ejercicio isOddLength.
     24. Ejercicio isEvenLength.
+    25. Ejercicio isEvenAndGreaterThanTen.
 
 
 
