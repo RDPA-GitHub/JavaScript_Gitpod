@@ -30,6 +30,7 @@
     23. Ejercicio isOddLength.
     24. Ejercicio isEvenLength.
     25. Ejercicio isEvenAndGreaterThanTen.
+    26. Ejercicio Average.
 
 
 
