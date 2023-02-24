@@ -34,6 +34,7 @@
     27. Ejercicio computeAreaOfATriangle.
     28. Ejercicio Cube.
     29. Ejercicio Square.
+    30. Ejercicio computeAverageLengthOfWords.
 
 
 
