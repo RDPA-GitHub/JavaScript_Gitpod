@@ -31,6 +31,7 @@
     24. Ejercicio isEvenLength.
     25. Ejercicio isEvenAndGreaterThanTen.
     26. Ejercicio Average.
+    27. Ejercicio computeAreaOfATriangle.
 
 
 
