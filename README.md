@@ -36,6 +36,7 @@
     29. Ejercicio Square.
     30. Ejercicio computeAverageLengthOfWords.
     31. Ejercicio addFullNameProperty.
+    32. Ejercicio addObjectProperty.
 
 
 
