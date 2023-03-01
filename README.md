@@ -39,6 +39,7 @@
     32. Ejercicio addObjectProperty.
     33. Ejercicio isPersonOldEnoughToDrinkAndDrive.
     34. Ejercicio isPersonOldEnoughToDrive.
+    35. Ejercicio isPersonOldEnoughToVote.
 
 
 
